@@ -1,0 +1,41 @@
+#nav1{
+    background-color: aqua;
+    padding: 20px;
+}
+h2{
+    display: inline;
+    color: black;
+}
+ul{
+    display: inline;
+    float: right;
+    position: relative;
+    top: -12px;
+}
+ul>li{
+    display: inline;
+    list-style-type: none;
+    color: black;
+    margin: 15px;
+
+}
+.propara{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    background-color: lightgrey;
+}
+.thumbnail-img{
+    text-align: center;
+    padding: 40px;
+    background-color: beige;
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin: 30px;
+}
+#nav2{
+    display: inline;
+    text-align: center;
+}
